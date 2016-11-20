@@ -1,5 +1,4 @@
 <?php
-//session_save_path("/tmp/session_a");
 session_name('SESS1');
 session_start();
 
